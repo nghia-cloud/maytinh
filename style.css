@@ -1,0 +1,47 @@
+
+
+
+button{
+     font-size: 20px;
+     border: 3px solid black;
+    text-align: center;
+    height: 12vh;
+    width: 22vw;
+   margin: 2px;
+   background-color: lightgray;
+}
+
+body{
+    font-family: arial;
+}
+div{
+   
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#display {
+    display: block;
+    border: 5px solid black;
+    text-align: left;
+    font-size: 50px;
+    background-color: lightgray;
+    height: 20vh;
+    width: 80vw;
+    padding: 20px;
+margin: auto;
+ overflow-x: auto;     
+    white-space: nowrap; 
+}
+
+.pheptinh {
+    background-color:orange ;
+
+}
+
+.xoa {
+    background-color: blue;
+    color: white;
+}
